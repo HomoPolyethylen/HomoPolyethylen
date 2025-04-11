@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Bioinformatician, currently based in Tübingen, Germany.
+- focused on computational immunommics / personalised oncology
+- interested in learning more about epigenetics, host-mircobiome interactions and surveillance of antimicrobial resistances
