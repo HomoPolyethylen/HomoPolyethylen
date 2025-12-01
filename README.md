@@ -31,6 +31,7 @@ I am a Bioinformatician, currently based in Tübingen, Germany.
 ![Nextflow](https://img.shields.io/badge/Nextflow-%230DC09D?style=for-the-badge&logo=nextflow&logoColor=white&link=https://www.nextflow.io/)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![bash](https://img.shields.io/badge/bash-grey?style=for-the-badge&logo=gnubash&logoColor=%234EAA25)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
