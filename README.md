@@ -28,7 +28,7 @@ I am a Bioinformatician, currently based in Tübingen, Germany.
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
 
-![Nextflow](https://img.shields.io/badge/Nextflow?style=for-the-badge&logo=nextflow&color=%230DC09D)
+![Nextflow](https://img.shields.io/badge/Nextflow-%230DC09D?style=for-the-badge&logo=nextflow&logoColor=white&link=https://www.nextflow.io/)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
